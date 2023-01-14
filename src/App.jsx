@@ -8,8 +8,8 @@ import TopSection from './Components/TopSection'
 function App() {
   return (
     <>
-      {/* <TopSection /> */}
-      <GalleryComponent/>
+      {/* <GalleryComponent/> */}
+      <TopSection/>
       <Footer/>
     </>
   )

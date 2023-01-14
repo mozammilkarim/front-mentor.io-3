@@ -10,3 +10,9 @@
   --white:#FFFFFF;
   /* --var() */
 }
+.icon{
+  fill:#FFFFFF
+}
+.icon:hover{
+  fill: #D5966C;
+}
