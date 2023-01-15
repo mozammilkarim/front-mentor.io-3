@@ -1,7 +1,7 @@
 import React from 'react'
 const Footer = ({iconClass="icon",bgColor="#151515",textColor="#ffffff"}) => {
     return (
-        <footer className={`bg-[${bgColor}] text-white text-[${textColor}] py-[80px] px-10 flex flex-col sm:flex-row gap-5 sm:gap-0 justify-between items-center`}>
+        <footer className={`bg-[${bgColor}] text-white text-[${textColor}] py-[80px] px-10 flex flex-col sm:flex-row gap-5 sm:gap-0 sm:justify-between sm:items-center items-start`}>
             <h3 className='font-bold text-5xl'>MODERN ART GALLERY</h3>
             <p className='font-bold text-xl sm:w-[430px] w-full'>The Modern Art Gallery is free to all visitors and open seven days a week from 8am to 9pm. Find us at 99 King Street, Newport, USA.</p>
             <div className='flex  sm:flex-row gap-3'>
