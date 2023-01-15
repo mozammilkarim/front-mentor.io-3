@@ -15,6 +15,7 @@ const TextSection = () => {
 }
 
 const TopSection = () => {
+    
     return (
         <div className='relative' >
 

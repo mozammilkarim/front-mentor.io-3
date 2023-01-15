@@ -16,3 +16,10 @@
 .icon:hover{
   fill: #D5966C;
 }
+.locationIcon{
+  fill: #151515;
+}
+.locationIcon:hover{
+  fill: #FFFFFF;
+  
+}
